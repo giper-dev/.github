@@ -11,5 +11,5 @@
 ## Call to action
 
 - Be a **Don** that will [**support** us](http://boosty.to/hyoo) to make it.
-- Be a **Hero** that will **make** it with us.
-- Be a **User** that will **use** it and enjoy.
+- Be a **Hero** that will **make** it [with us](https://t.me/hd4ru).
+- Be a **User** that will [**use** it](https://space.hd4.ru) and enjoy.
