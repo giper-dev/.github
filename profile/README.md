@@ -1,5 +1,5 @@
-# $hyoo
+# Hyper Dev
 
-HYper-Oriented Organisation. Jump with us to the open-source future!
+> Nano tech for hyper tasks
 
-[Site](http://hyoo.ru/) | [Projects](https://idea.hyoo.ru/#!=projects) | [News](https://t.me/mol_news) | [Phorum](https://t.me/h_y_o_o)
+[About](http://hd4.ru/) | [Products](https://space.hd4.ru/) | [Talks](https://t.me/hd4ru)
