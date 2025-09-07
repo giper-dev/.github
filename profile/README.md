@@ -1,6 +1,6 @@
 # Giper Dev
 
-> Nano tech for Hyper tasks
+> Nano tech for Giper tasks!
 
 [About](http://giper.dev/) | [Products](https://web.giper.dev/) | [Talks](https://t.me/giper_dev)
 
