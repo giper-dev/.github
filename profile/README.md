@@ -2,7 +2,7 @@
 
 > Nano tech for Giper tasks!
 
-[About](http://giper.dev/) | [Products](https://web.giper.dev/) | [Talks](https://t.me/giper_dev)
+[About](http://giper.dev/) | [Products](https://web.giper.dev/) | [Support](https://t.me/giper_web) | [Devs](https://t.me/giper_dev)
 
 ## Legend
 
